@@ -1,0 +1,2 @@
+# ninjaLua
+super lua wrapper
